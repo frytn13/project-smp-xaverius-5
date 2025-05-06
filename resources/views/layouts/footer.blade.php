@@ -6,13 +6,13 @@
                     <div class="textwidget">
                         <p><img src="{{ asset('images/logoxav5.png') }}" alt="" />
                             <br /> <span class="gdlr-core-space-shortcode" style="margin-top: 5px ;"></span>
-                            <br /> Box 35300
-                            <br /> 1810 Campus Way NE
-                            <br /> Bothell, WA 98011-8246
+                            <br /> Jl. Pintu Gereja Komperta,  Kota Palembang,
+                            <br /> Kelurahan Komperta, Kecamatan Plaju,
+                            <br /> Sumatera Selatan, 30286
                         </p>
-                        <p><span style="font-size: 15px; color: #ffffff;">+1-2534-4456-345</span>
+                        <p><span style="font-size: 15px; color: #ffffff;">+62 812 2000 1409</span>
                             <br /> <span class="gdlr-core-space-shortcode" style="margin-top: -20px ;"></span>
-                            <br /> <a style="font-size: 15px; color: #ffffff;" href="mailto:admin@kingsteruni.edu">admin@kingsteruni.edu</a>
+                            <br /> <a style="font-size: 15px; color: #ffffff;" href="mailto:admin@kingsteruni.edu">ranto1991@gmail.com</a>
                         </p>
                         <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
                             <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 2px ;"></div>
@@ -84,10 +84,10 @@
                     </a>
                     <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype">
                         <i class="fa fa-skype"></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
-                        <i class="fa fa-twitter"></i>
                     </a> -->
+                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
+                        <i class="fa fa-envelope"></i>
+                    </a>
                     <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram">
                         <i class="fa fa-instagram"></i>
                     </a>
