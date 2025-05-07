@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="kingster-mobile-menu-right">
-                    <div class="kingster-main-menu-search" id="kingster-mobile-top-search"><i class="fa fa-search"></i>
+                    <!-- <div class="kingster-main-menu-search" id="kingster-mobile-top-search"><i class="fa fa-search"></i>
                     </div>
                     <div class="kingster-top-search-wrap">
                         <div class="kingster-top-search-close"></div>
@@ -49,7 +49,7 @@
                                 </form>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="kingster-mobile-menu"><a
                             class="kingster-mm-menu-button kingster-mobile-menu-button kingster-mobile-button-hamburger"
                             href="#kingster-mobile-menu"><span></span></a>
@@ -275,16 +275,16 @@
                 <div class="kingster-top-bar-container kingster-container ">
                     <div class="kingster-top-bar-container-inner clearfix">
                         <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o"
-                                style="font-size: 15px ;color: #96a2b8 ;margin-right: 8px ;"></i> contact@KUTheme.edu <i
+                                style="font-size: 15px ;color: #96a2b8 ;margin-right: 8px ;"></i> ranto1991@gmail.com <i
                                 class="fa fa-phone"
                                 style="font-size: 15px ;color: #96a2b8 ;margin-left: 18px ;margin-right: 6px ;"></i>
-                            +1-3435-2356-222</div>
+                                +62 812 2000 1409</div>
                         <div class="kingster-top-bar-right kingster-item-pdlr">
                             <ul id="kingster-top-bar-menu"
                                 class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
-                                <li class="menu-item kingster-normal-menu"><a href="#">Alumni</a></li>
-                                <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
-                                <li class="menu-item kingster-normal-menu"><a href="#">Portal</a></li>
+                                <li class="menu-item kingster-normal-menu"><a href="{{ url('/pendaftaran') }}">Pendaftaran</a></li>
+                                <!-- <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
+                                <li class="menu-item kingster-normal-menu"><a href="#">Portal</a></li> -->
                             </ul>
                             <!-- <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button"
                                 href="#" target="_blank">Support KU</a> -->
@@ -559,7 +559,7 @@
                                 </ul>
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                             </div>
-                            <div class="kingster-main-menu-right-wrap clearfix ">
+                            <!-- <div class="kingster-main-menu-right-wrap clearfix ">
                                 <div class="kingster-main-menu-search" id="kingster-top-search"><i
                                         class="icon_search"></i></div>
                                 <div class="kingster-top-search-wrap">
@@ -577,7 +577,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

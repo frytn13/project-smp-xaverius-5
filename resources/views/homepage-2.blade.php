@@ -238,7 +238,7 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+        <!-- <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
             <div class="gdlr-core-pbf-background-wrap" style="background-color: #262626 ;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
@@ -377,7 +377,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="gdlr-core-pbf-wrapper " style="padding: 125px 0px 0px 0px;">
             <div class="gdlr-core-pbf-background-wrap" style="background-color: #1e2d49 ;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">

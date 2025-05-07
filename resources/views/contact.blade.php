@@ -165,7 +165,7 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 115px 0px 40px 0px;">
+        <!-- <div class="gdlr-core-pbf-wrapper " style="padding: 115px 0px 40px 0px;">
             <div class="gdlr-core-pbf-background-wrap" style="background-color: #f3f3f3 ;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -223,7 +223,7 @@
                                                         </p>
                                                     </div>
                                                     <p>
-                                                        <!-- Begin Submit button -->
+
                                                     <div class="quform-submit">
                                                         <div class="quform-submit-inner">
                                                             <button type="submit"
@@ -243,7 +243,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">

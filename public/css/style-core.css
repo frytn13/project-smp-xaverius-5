@@ -6152,8 +6152,8 @@ body .tribe-bar-views-inner {
 }
 
 .megaimg {
-	background-image: url('../upload/mega-menu-bg.jpg');  
-	background-position: bottom right;  
+	background-image: url('../upload/mega-menu-bg.jpg');
+	background-position: bottom right;
 	background-repeat: no-repeat;
 }
 
@@ -6201,14 +6201,14 @@ body .tribe-bar-views-inner {
 	color: #333;
 }
 
-.submit-button { 
-	font-size: 15px; 
-	font-weight: bold; 
-	letter-spacing: 0.8px; 
-	padding: 15px; 
+.submit-button {
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 0.8px;
+	padding: 15px;
 	width: 100%;
-	display: block; -webkit-appearance: none; 
-	background-color:#af938f; 
+	display: block; -webkit-appearance: none;
+	background-color:#af938f;
 	border: 0;
 	color: #fff;
 	font-style: normal !important;
@@ -6219,6 +6219,9 @@ body .tribe-bar-views-inner {
 
 .gdlr-core-portfolio-thumbnail-image-wrap img {
 	width: 100%;
+    overflow: scroll;
+    max-height: 190px;
+    object-fit: cover;
 }
 
 
@@ -6229,14 +6232,14 @@ body .tribe-bar-views-inner {
 	color: #333;
 }
 
-.submit-button { 
-	font-size: 15px; 
-	font-weight: bold; 
-	letter-spacing: 0.8px; 
-	padding: 15px; 
+.submit-button {
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 0.8px;
+	padding: 15px;
 	width: 100%;
-	display: block; -webkit-appearance: none; 
-	background-color:#3db166; 
+	display: block; -webkit-appearance: none;
+	background-color:#3db166;
 	border: 0;
 	color: #fff;
 	font-style: normal !important;
